@@ -11,6 +11,7 @@
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 
+
 # Sensitive or high-churn files:
 .idea/**/dataSources/
 .idea/**/dataSources.ids
@@ -126,3 +127,4 @@ Session.vim
 tags
 
 # End of https://www.gitignore.io/api/macos,vim,intellij,scala,sbt,git
+.idea/
